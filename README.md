@@ -21,7 +21,6 @@ Well-versed in responsive design, UI/UX principles, optimization techniques, and
 <code><img alt="JavaScript" height="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></code>
 <code><img alt="TypeScript" height="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/></code>
 <code><img alt="PHP" height="45" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/></code>
-<code><img alt="PHP" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img alt="Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
 <code><img alt="Java" height="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
 <code><img alt="Ruby" height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original-wordmark.svg"></code>
