@@ -53,12 +53,3 @@ Well-versed in responsive design, UI/UX principles, optimization techniques, and
 <code><img alt="Figma" height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/></code>
 <code><img alt="Jira" height="45" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"></code>
 <code><img alt="Trello" height="45" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"></code>
-
-## Previous Work
-
-<img src="https://github.com/superdev1989/superdev1989/blob/main/public/img/screenshot.png">
-
-<https://biokleenhome.com/><br/>
-<https://www.bluespark.digital/><br/>
-<https://timetation.ch/><br/>
-<https://golodger.com/><br/>
