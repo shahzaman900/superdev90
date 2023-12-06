@@ -46,4 +46,5 @@ Well-versed in responsive design, UI/UX principles, optimization techniques, and
 <code><img alt="Trello" height="45" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"></code>
 
 I always ensure that all developed web pages are up-to-speed, efficient, and modern.
+
 🤝 Hope working with you!
