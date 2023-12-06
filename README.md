@@ -2,7 +2,7 @@
   Senior Full-Stack Developer
 </h1>
 
-Developed, maintained, and migrated numerous user-focused, engaged web applications including Ecommerce when I worked at Emote Digital Company in Australia.
+Developed, maintained, and migrated numerous user-focused, engaged web applications including Ecommerce when I worked at TechaSoft.
 
 Well-versed in responsive design, UI/UX principles, optimization techniques, and cross-browser compatibility.
 
@@ -44,3 +44,6 @@ Well-versed in responsive design, UI/UX principles, optimization techniques, and
 <code><img alt="Figma" height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/></code>
 <code><img alt="Jira" height="45" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"></code>
 <code><img alt="Trello" height="45" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"></code>
+
+I always ensure that all developed web pages are up-to-speed, efficient, and modern.
+🤝 Hope working with you!
