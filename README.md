@@ -2,17 +2,17 @@
   Senior Full-Stack Developer
 </h1>
 
-Developed, maintained, and migrated numerous user-focused, engaged web applications including Ecommerce when I worked at TechaSoft.
-
-Well-versed in responsive design, UI/UX principles, optimization techniques, and cross-browser compatibility.
+Specialize in Front-End Development and have expertise in JavaScript, HTML, CSS and popular frameworks like React and Angular.
+Also highly skilled in Back-End frameworks like Node.js, Laravel, and Django.
+Well-versed in Responsive Design, UI/UX Principles, Optimization Techniques.
 
 ## Skills
 
--   🎨 <b>Frontend</b> : React, Next.js, Angular
--   ⚙️ <b>Backend</b> : Node.js, Laravel, Django
--   📚 <b>Libraries</b> : Bootstrap, jQuery, Material UI, Ant Design, Tailwind CSS
--   🗄️ <b>Database</b> : MySQL, MongoDB, PostgreSQL
--   ✍️ <b>Languages</b> : HTML5, CSS3, JavaScript, TypeScript, PHP, Python
+-   <b>Frontend</b> : React, Next.js, Angular
+-   <b>Backend</b> : Node.js, Laravel, Django
+-   <b>Libraries</b> : Bootstrap, jQuery, Material UI, Ant Design, Tailwind CSS
+-   <b>Database</b> : MySQL, MongoDB, PostgreSQL
+-   <b>Languages</b> : HTML5, CSS3, JavaScript, TypeScript, PHP, Python
 
 ## Frameworks & Libraries
 
