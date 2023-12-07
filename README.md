@@ -39,4 +39,4 @@ Well-versed in responsive design, UI/UX principles, optimization techniques, and
 <code><img alt="Jira" height="45" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"></code>
 <code><img alt="Trello" height="45" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"></code>
 
-I always ensure that all developed web pages are up-to-speed, efficient, and modern.
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
